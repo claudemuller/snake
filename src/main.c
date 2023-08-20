@@ -11,11 +11,8 @@ bool is_running = NULL;
 Player player;
 
 void setup(void);
-
 void process_input(void);
-
 void update(void);
-
 void render(void);
 
 int main(void) {
